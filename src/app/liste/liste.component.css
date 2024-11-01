@@ -1,0 +1,126 @@
+.sinner-list-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-items: center;
+    gap: 8px;
+
+    .sinner-container {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+
+        .base-sinner-infos {
+            width: inherit;
+            height: inherit;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            align-items: center;
+            justify-content: space-around;
+
+            .sinner-name {
+                width: 8%;
+            }
+
+            .sinner-image-container {
+                height: inherit;
+
+                .sinner-image {
+                    width: auto;
+                    max-height: 100%;
+                }
+            }
+
+            .sinner-icon-container {
+                height: inherit;
+                max-width: 10%;
+
+                .sinner-icon {
+                    width: 100%;
+                    max-height: 100%;
+                    background-color: #0e0a0a;
+                }
+            }
+
+            .base-identity-level {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 9%;
+            }
+            
+            .base-identity-uptie-tier {
+                width: 8%;
+            }
+
+            .ego-list-container {
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                align-items: flex-start;
+                justify-content: center;
+                width: 10%;
+
+                /* .ego-container {
+
+                } */
+            }
+
+            .skills-container {
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                align-items: flex-start;
+                justify-content: center;
+                width: 15%;
+
+                /* .skill-1 {
+
+                }
+                
+                .skill-2 {
+                    
+                }
+                
+                .skill-3 {
+                    
+                }
+
+                .defensive-skill {
+
+                } */
+            }
+
+            .passives-container {
+                width: 30%;
+                /* .passive-active {
+
+                }
+
+                .passive {
+
+                } */
+            }
+
+            .keywords-container {
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                align-items: flex-start;
+                justify-content: center;
+                width: 10%;
+
+                /* .keyword {
+
+                } */
+            }
+        }
+    }
+}
+

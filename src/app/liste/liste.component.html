@@ -1,0 +1,54 @@
+<div class="sinner-list-container">
+@for (sinner of sinners.sinner_list; track $index) {
+    <div class="sinner-container">
+        <div class="base-sinner-infos">
+            <div class="sinner-name">
+                {{sinner.name}}
+            </div>
+            <!-- <div class="sinner-image-container">
+                <img class="sinner-image" [src]="sinner.sinner_image">
+            </div> -->
+            <div class="sinner-icon-container">
+                <img class="sinner-icon" [src]="sinner.sinner_icon">
+            </div>
+
+            <div class="base-identity-level">
+                Level : {{sinner.base_identity.level}}
+            </div>
+            <div class="base-identity-uptie-tier">
+                Uptie tier : {{sinner.base_identity.uptie_tier}}
+            </div>
+            <div class="ego-list-container">
+                @for (ego of sinner.base_identity.egos; track $index) {
+                    <div class="ego-container">
+                        {{ego}}
+                    </div>
+                }
+            </div>
+            <div class="skills-container">
+                <div class="skill-1">Skill 1 : {{sinner.base_identity.skill_1}}</div>
+                <div class="skill-2">Skill 2 : {{sinner.base_identity.skill_2}}</div>
+                <div class="skill-3">Skill 3 : {{(sinner.base_identity.uptie_tier < 3) ? "Locked" : sinner.base_identity.skill_3}}</div>
+                <div class="defensive-skill">Defensive skill : {{sinner.base_identity.defensive_skill}}</div>
+            </div>
+            <div class="passives-container">
+                <div class="passive-active">
+                    Passive : {{sinner.base_identity.active_passive}}
+                </div>
+                <div class="passive">
+                    Support passive : {{sinner.base_identity.passive}}
+                </div>
+            </div>
+            <div class="keywords-container">
+                @for (keyword of sinner.base_identity.keywords; track $index) {
+                    <div class="keyword">{{keyword}}</div>
+                }
+            </div>
+
+
+
+
+        </div>
+    </div>
+}
+</div>

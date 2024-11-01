@@ -1,0 +1,292 @@
+{
+  "sinner_list": [
+    {
+      "name": "Yi Sang",
+      "sinner_image": "assets/images/yi_sang.webp",
+      "sinner_icon": "assets/images/yi_sang_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 12,
+          "uptie_tier": 3,
+          "egos": [
+            "Crow's Eye View",
+            "Wishing Cairn",
+            "Dimension Shredder"
+          ],
+          "skill_1": "Deflect",
+          "skill_2": "End-stop Stab",
+          "skill_3": "Enjamb",
+          "defensive_skill": "Guard",
+          "passive": "Information Neutralization",
+          "active_passive": "Information Relay",
+          "keywords": [
+            "sinking",
+            "fragile"
+          ]
+      }
+    },
+    {
+      "name": "Faust",
+      "sinner_image": "assets/images/faust.webp",
+      "sinner_icon": "assets/images/faust_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 1,
+          "uptie_tier": 3,
+          "egos": [
+            "Representation Emitter",
+            "Lasso",
+              "Telepole"
+            ],
+          "skill_1": "Downward Slash",
+          "skill_2": "Upward Slash",
+          "skill_3": "Drilling Stab",
+          "defensive_skill": "Evade",
+          "passive": "Keen Observation",
+          "active_passive": "Analytic Eye",
+          "keywords": [
+            "paralyse", 
+            "offense down", 
+            "atk down"
+          ]
+      }
+    },
+    {
+      "name": "Don Quixote",
+      "sinner_image": "assets/images/don_quixote.webp",
+      "sinner_icon": "assets/images/don_quixote_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 25,
+          "uptie_tier": 3,
+          "egos": [
+            "La Sangre de Sancho"
+          ],
+          "skill_1": "Joust",
+          "skill_2": "Galloping Tilt",
+          "skill_3": "For Justice!",
+          "defensive_skill": "Evade",
+          "passive": "Support",
+          "active_passive": "Righteous Retribution",
+          "keywords": [
+            "haste",
+            "atk up"
+          ]
+      }
+    },
+    {
+      "name": "Ryoshu",
+      "sinner_image": "assets/images/ryoshu.webp",
+      "sinner_icon": "assets/images/ryoshu_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 25,
+          "uptie_tier": 3,
+          "egos": [
+            "Forest for the flames"
+          ],
+          "skill_1": "Paint",
+          "skill_2": "Splatter",
+          "skill_3": "Brushstroke",
+          "defensive_skill": "Evade",
+          "passive": "Hustle",
+          "active_passive": "Indiscriminate Art",
+          "keywords": [
+            "poise",
+            "slash dmg up"
+          ]
+      }
+    },
+    {
+      "name": "Meursault",
+      "sinner_image": "assets/images/meursault.webp",
+      "sinner_icon": "assets/images/meursault_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 27,
+          "uptie_tier": 3,
+          "egos": [
+            "Chains of Others"
+          ],
+          "skill_1": "Un, Deux",
+          "skill_2": "Nailing Fist",
+          "skill_3": "Des Coups",
+          "defensive_skill": "Guard",
+          "passive": "Backup",
+          "active_passive": "Staunchness",
+          "keywords": [
+            "tremor",
+            "def up",
+            "tremor burst"
+          ]
+      }
+    },
+    {
+      "name": "Hong Lu",
+      "sinner_image": "assets/images/hong_lu.webp",
+      "sinner_icon": "assets/images/hong_lu_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 12,
+          "uptie_tier": 3,
+          "egos": [
+            "Land of Illusion",
+            "Lasso"
+          ],
+          "skill_1": "Downward Cleave",
+          "skill_2": "Dual Strike",
+          "skill_3": "Whirlwind",
+          "defensive_skill": "Evade",
+          "passive": "Frivolous Jokes",
+          "active_passive": "Entertainment",
+          "keywords": [
+            "sinking",
+            "rupture",
+            "atk down"
+          ]
+      }
+    },
+    {
+      "name": "Heathcliff",
+      "sinner_image": "assets/images/heathcliff.webp",
+      "sinner_icon": "assets/images/heathcliff_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 24,
+          "uptie_tier": 3,
+          "egos": [
+            "Bodysack"
+          ],
+          "skill_1": "Bat Bash",
+          "skill_2": "Smackdown",
+          "skill_3": "Upheaval",
+          "defensive_skill": "Counter",
+          "passive": "Spite-driven",
+          "active_passive": "Ressentiment",
+          "keywords": [
+            "tremor",
+            "tremor burst",
+            "atk up",
+            "dmg up"
+          ]
+      }
+    },
+    {
+      "name": "Ishmael",
+      "sinner_image": "assets/images/ishmael.webp",
+      "sinner_icon": "assets/images/ishmael_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 1,
+          "uptie_tier": 3,
+          "egos": [
+            "Snagharpoon"
+          ],
+          "skill_1": "Loggerhead",
+          "skill_2": "Slide",
+          "skill_3": "Shield Bash",
+          "defensive_skill": "Guard",
+          "passive": "Determination to Survive",
+          "active_passive": "Last-ditch Struggle",
+          "keywords": [
+            "tremor",
+            "def down",
+            "tremor burst",
+            "blunt fragility"
+          ]
+      }
+    },
+    {
+      "name": "Rodion",
+      "sinner_image": "assets/images/rodion.webp",
+      "sinner_icon": "assets/images/rodion_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 25,
+          "uptie_tier": 3,
+          "egos": [
+            "What is Cast",
+            "Hex Nail"
+          ],
+          "skill_1": "Strike down",
+          "skill_2": "Axe Combo",
+          "skill_3": "Slay",
+          "defensive_skill": "Counter",
+          "passive": "Gambler",
+          "active_passive": "Split Evil",
+          "keywords": [
+            "bleed"
+          ]
+      }
+    },
+    {
+      "name": "Sinclair",
+      "sinner_image": "assets/images/sinclair.webp",
+      "sinner_icon": "assets/images/sinclair_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 28,
+          "uptie_tier": 3,
+          "egos": [
+            "Branch of Knowledge",
+            "Hex Nail"
+          ],
+          "skill_1": "Downward Swing",
+          "skill_2": "Halberd Combo",
+          "skill_3": "Ravaging Cut",
+          "defensive_skill": "Counter",
+          "passive": "Grudge",
+          "active_passive": "Pluckiness",
+          "keywords": [
+            "rupture",
+            "atk up"
+          ]
+      }
+    },
+    {
+      "name": "Outis",
+      "sinner_image": "assets/images/outis.webp",
+      "sinner_icon": "assets/images/outis_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 1,
+          "uptie_tier": 3,
+          "egos": [
+            "To Pathos Mathos"
+          ],
+          "skill_1": "Pulled Blade",
+          "skill_2": "Backslash",
+          "skill_3": "Piercing Thrust",
+          "defensive_skill": "Evade",
+          "passive": "Military Mindset",
+          "active_passive": "Executer",
+          "keywords": [
+            "rupture"
+          ]
+      }
+    },
+    {
+      "name": "Gregor",
+      "sinner_image": "assets/images/gregor.webp",
+      "sinner_icon": "assets/images/gregor_icon.webp",
+      "base_identity": {
+          "name": "",
+          "level": 6,
+          "uptie_tier": 3,
+          "egos": [
+            "Suddenly, One Day"
+          ],
+          "skill_1": "Swipe",
+          "skill_2": "Jag",
+          "skill_3": "Chop Up",
+          "defensive_skill": "Guard",
+          "passive": "Gene Code G-0",
+          "active_passive": "Forced Survival",
+          "keywords": [
+            "rupture",
+            "pierce fragility"
+          ]
+      }
+    }
+  ]
+}

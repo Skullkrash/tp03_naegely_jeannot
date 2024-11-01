@@ -1,0 +1,16 @@
+.app-main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+
+    .search-filter {
+        height: 90px;
+        width: 100%;
+    }
+    
+    .sinners-list {
+        width: 100%;
+    }
+}

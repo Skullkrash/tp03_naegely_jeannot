@@ -1,0 +1,39 @@
+.filters-container {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+
+    .header {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+
+        .filter-buttons-container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            gap: 4px;
+
+            .filter-button {
+                border-radius: 4px;
+                padding: 4px;
+                border: 1px solid black;
+
+                &.active {
+                    background-color: lightblue;
+                }
+            }
+        }        
+    }
+
+    .input-field {
+        width: 15%;
+    }   
+}
